@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class TodoAppController {
 
     @GetMapping("/")
-    public String helloWorld() {
+    public String printString() {
         return "To-do Application !";
     }
 }
