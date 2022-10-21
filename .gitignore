@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Compiled class file
 *.class
 
@@ -23,6 +24,8 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 =======
+=======
+>>>>>>> 5d83ae0 (To-do Application ! 출력 기능 구현)
 HELP.md
 .gradle
 build/
@@ -60,4 +63,7 @@ out/
 
 ### VS Code ###
 .vscode/
+<<<<<<< HEAD
+>>>>>>> 5d83ae0 (To-do Application ! 출력 기능 구현)
+=======
 >>>>>>> 5d83ae0 (To-do Application ! 출력 기능 구현)
